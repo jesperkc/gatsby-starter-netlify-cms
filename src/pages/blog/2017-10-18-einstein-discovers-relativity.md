@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /einstein
 title: Einstein Discovers Relativity
 date: 2017-10-18T17:12:33.962Z
-image: /img/photo-1471193945509-9ad0617afabf.jpeg
+image: /img/photo-1448935852404-7a38bb46f5b3.jpeg
 ---
 In 1905, **Albert Einstein** determined that the laws of physics are the same for all non-accelerating observers, and that the speed of light in a vacuum was independent of the motion of all observers. This was the theory of special **relativity**
 
